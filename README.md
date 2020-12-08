@@ -1,2 +1,2 @@
 # paint_delphie
-simplae delphie app for univer
+simple delphie app for univer
